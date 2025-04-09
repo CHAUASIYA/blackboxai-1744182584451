@@ -1,0 +1,11 @@
+/* Additional custom styles */
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+#imageResult img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
